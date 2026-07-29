@@ -171,4 +171,3 @@ ChatGPT Plus突然消失，常见原因通常集中在以下几项：
  - [【亲测可用】2026年ChatGPT充值教程：Plus、Pro、Codex国内怎么开通？](https://github.com/lb05150616/gulang-ai-notes/blob/11615f114c66d702db0806b4e1feed7d5dd11437/articles/chatgpt-plus-pro-codex-recharge-guide-2026.md)
 
 - [国内没有海外信用卡怎么开通ChatGPT Plus？4种方式对比](https://github.com/lb05150616/gulang-ai-notes/blob/11615f114c66d702db0806b4e1feed7d5dd11437/articles/no-overseas-card-chatgpt-plus-guide.md)
-- [ChatGPT重复扣费怎么办？网页、苹果和安卓订阅排查](chatgpt-duplicate-charge-guide.md)
