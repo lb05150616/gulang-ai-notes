@@ -158,7 +158,7 @@ Codex Credits属于ChatGPT账户中支持功能的额外使用额度，不等于
 
 ## 需要补充套餐或Credits怎么办
 
-没有合适支付方式、购买Credits失败，或者准备从Plus升级Pro的用户，可以[查看Plus、Pro和Codex订阅充值入口](https://lin.aixufei.com)。
+没有合适支付方式、购买Credits失败，或者准备从Plus升级Pro的用户，可以[查看Plus、Pro和Codex订阅充值入口](https://lin.aixufei.net)。
 
 支持使用本人ChatGPT账号办理，不提供共享账号；订单进度可以查询，内含操作教程，并提供售后质保和发票服务。具体套餐、价格、到账时间和服务规则以下单页面实时显示为准。
 

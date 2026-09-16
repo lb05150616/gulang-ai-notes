@@ -334,7 +334,7 @@ Codex使用量不是按照简单的“消息条数”计算。
 
 就可以重新比较Plus和Pro。
 
-没有合适海外付款方式、官方升级多次失败，或者希望使用本人ChatGPT账号办理Plus / Pro的用户，可以[查看Plus/Pro订阅充值入口](https://lin.aixufei.com)。
+没有合适海外付款方式、官方升级多次失败，或者希望使用本人ChatGPT账号办理Plus / Pro的用户，可以[查看Plus/Pro订阅充值入口](https://lin.aixufei.net)。
 
 支持国内常用付款方式，使用本人ChatGPT账号办理，不提供共享账号；订单进度可以查询，内含操作教程，并提供售后质保和发票服务。
 

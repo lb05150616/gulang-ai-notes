@@ -251,7 +251,7 @@ Plus和Pro额度区别可以查看：
 
 如果排查后确认问题不是临时的模型Capacity，而是Codex套餐额度长期不足，可以再根据自己的实际使用强度考虑Plus或Pro。
 
-没有合适海外付款方式、官方升级多次失败，或者希望使用本人ChatGPT账号办理Plus / Pro的用户，可以[查看Plus/Pro订阅充值入口](https://lin.aixufei.com)。
+没有合适海外付款方式、官方升级多次失败，或者希望使用本人ChatGPT账号办理Plus / Pro的用户，可以[查看Plus/Pro订阅充值入口](https://lin.aixufei.net)。
 
 支持国内常用付款方式，使用本人ChatGPT账号办理，不提供共享账号；订单进度可以查询，内含操作教程，并提供售后质保和发票服务。
 

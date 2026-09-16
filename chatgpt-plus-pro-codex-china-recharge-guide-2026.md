@@ -200,7 +200,7 @@ Google Play订阅需要在Google Play的“付款和订阅”页面管理。卸�
 7. 是否可以提供发票；
 8. 是否写清退款和隐私规则。
 
-没有合适付款方式的用户，可以[查看Plus、Pro和Codex订阅充值服务入口](https://lin.aixufei.com)。
+没有合适付款方式的用户，可以[查看Plus、Pro和Codex订阅充值服务入口](https://lin.aixufei.net)。
 
 支持国内常用付款方式，使用本人ChatGPT账号办理，不提供共享账号；订单进度可以查询，内含操作教程，并提供售后质保与发票服务。
 
@@ -427,7 +427,7 @@ ChatGPT订阅和OpenAI API属于独立计费系统，API需要单独设置付款
 
 ## 服务说明
 
-没有合适海外支付方式、官方付款多次失败，或者希望减少开通操作的用户，可以[查看当前Plus、Pro和Codex套餐订阅充值入口](https://lin.aixufei.com)。
+没有合适海外支付方式、官方付款多次失败，或者希望减少开通操作的用户，可以[查看当前Plus、Pro和Codex套餐订阅充值入口](https://lin.aixufei.net)。
 
 服务特点包括：
 
